@@ -16,5 +16,5 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-*.vi
-*.VI
+*.vi	diff=astextplain
+*.VI	diff=astextplain
