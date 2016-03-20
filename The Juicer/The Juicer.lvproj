@@ -29,6 +29,7 @@
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
 		<Item Name="FRC Particle Classification Example.vi" Type="VI" URL="../Vision/FRC Particle Classification Example.vi"/>
 		<Item Name="A-Star Simple Example.vi" Type="VI" URL="../Autonomous/A-Star Simple Example.vi"/>
+		<Item Name="TargetAssist.vi" Type="VI" URL="../Vision/TargetAssist.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="WPI_CameraSettings Read MJPG.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSettings Read MJPG.ctl"/>
@@ -244,6 +245,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../Vision/Vision Support Code/Sorted Particle Report 2016.vi"/>
 			</Item>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision/Vision Processing.vi"/>
+			<Item Name="TargetAssist.vi" Type="VI" URL="../Vision/TargetAssist.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
