@@ -30,6 +30,7 @@
 		<Item Name="FRC Particle Classification Example.vi" Type="VI" URL="../Vision/FRC Particle Classification Example.vi"/>
 		<Item Name="A-Star Simple Example.vi" Type="VI" URL="../Autonomous/A-Star Simple Example.vi"/>
 		<Item Name="TargetAssist.vi" Type="VI" URL="../Vision/TargetAssist.vi"/>
+		<Item Name="Defenses.ctl" Type="VI" URL="../Autonomous/Defenses.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="WPI_CameraSettings Read MJPG.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSettings Read MJPG.ctl"/>
@@ -147,7 +148,7 @@
 	</Item>
 	<Item Name="Target" Type="RT myRIO">
 		<Property Name="alias.name" Type="Str">Target</Property>
-		<Property Name="alias.value" Type="Str">roboRIO-4186-FRC.local</Property>
+		<Property Name="alias.value" Type="Str">roborio-4186-frc.local</Property>
 		<Property Name="CCSymbols" Type="Str">OS,Linux;CPU,ARM;DeviceCode,76F2;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">76F2</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
